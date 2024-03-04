@@ -1,6 +1,8 @@
 # Challenge Decodificador de Texto com JavaScript
 ### Seja bem-vindo ao repositório do Challenge Decodificador de Texto com JavaScript! Este projeto oferece uma abordagem dinâmica e interativa para explorar os conceitos fundamentais da criptografia de mensagens utilizando JavaScript.
 
+![project](https://github.com/lucasgomesdacruz/decodificadorJs/assets/112510742/0fa54b5a-4485-4aeb-91d3-f58acd07f2e2)
+
 ## Acesse o projeto aqui: https://lucasgomesdacruz.github.io/decodificadorJs/
 
 ### Funcionalidades:

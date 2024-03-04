@@ -299,7 +299,7 @@ body {
   }
 }
 
-@media screen and (max-width: 430px) {
+@media screen and (max-width: 500px) {
   header {
     align-items: flex-start;
   }
@@ -356,6 +356,8 @@ body {
   }
 
   .rodape {
+    display: flex;
+    flex-direction: column;
     text-align: center;
   }
 }
